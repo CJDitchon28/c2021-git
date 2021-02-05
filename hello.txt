@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 tskjhdfkjhsfh
+=======
+creating a sample file.
+>>>>>>> e9b8517bc8d0ae3746a6bf42cf51418bd710a83b
+
+christine joy ditchon
